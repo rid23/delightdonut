@@ -1,11 +1,11 @@
 
 
-function doughnutLand() {
+export default function doughnutLand() {
 
     return (
         <>
         <div>
-            baal chaal
+            <h1>baal chaal</h1>
         </div>
         </>
     )
