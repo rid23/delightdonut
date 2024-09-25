@@ -2,6 +2,8 @@
 
 ## Run Project locally
 
+### Without Docker
+
 ```
     cd delightdonut
 ```
@@ -12,6 +14,12 @@ npm install     // first Check node install locally using node -v
 
 ```javascript
 npm run dev
+```
+
+### Using Docker
+
+```docker
+docker-compose up       # first install docker locally
 ```
 
 ---
