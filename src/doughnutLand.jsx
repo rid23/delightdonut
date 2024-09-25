@@ -1,3 +1,4 @@
+import BaalChhalABCD from './Components/DoughnutLand.jsx'
 
 
 export default function doughnutLand() {
@@ -6,6 +7,7 @@ export default function doughnutLand() {
         <>
         <div>
             <h1>baal chaal</h1>
+            <BaalChhalABCD/>
         </div>
         </>
     )
